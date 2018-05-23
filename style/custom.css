@@ -1,0 +1,244 @@
+/* == GLOBAL ==*/
+/* == Slider global */
+/* == BTN ==*/
+/* == Header ==*/
+/* == Home ==*/
+/* == ABOUT ==*/
+/* == Footer ==*/
+/* == Modal ==*/
+/* == 404 page and Modal== */
+/* == Media== */
+
+/* @font-face {
+  font-family: 'ApercuPro-Mono';
+  src: url('./fonts/Apercu_Pro/apercu-mono-pro.otf') format("opentype");
+} */
+
+
+/* ============ Global ========== */
+body{
+  font-family: 'ApercuPro-Mono';
+  color: #0000;
+}
+p{
+  margin: 0;
+}
+img{
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+a{
+  color: inherit;
+}
+a:hover{
+  text-decoration: none;
+  color: inherit;
+}
+:active, :hover, :focus {
+  outline: 0;
+  outline-offset: 0;
+}
+button:active, button:focus {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
+.no-p{
+  padding: 0;
+}
+.no-m{
+  margin: 0;
+}
+.cur-p{
+  cursor: pointer;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+}
+
+h1{}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+
+.color-white{
+  color: #fff;
+}
+
+.color-black{
+  color: #000;
+}
+
+section{
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  margin: 0 auto;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+}
+
+select::-ms-expand {
+  display: none;
+}
+nput::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+}
+input::-moz-placeholder { /* Firefox 19+ */
+
+}
+input:-ms-input-placeholder { /* IE 10+ */
+
+}
+input:-moz-placeholder { /* Firefox 18- */
+
+}
+textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+}
+textarea::-moz-placeholder { /* Firefox 19+ */
+
+}
+textarea:-ms-input-placeholder { /* IE 10+ */
+
+}
+textarea:-moz-placeholder { /* Firefox 18- */
+
+}
+/* ========== End Global ======= */
+
+/* ========== Slider global ==== */
+
+/* ==== End Slider global ========*/
+
+/* =========== BTN ============= */
+.btn{
+  cursor: pointer;
+  position: relative;
+}
+.btn.btn-default{
+
+}
+.btn.btn-default:hover{
+
+}
+
+/* =========== END BTN ========== */
+
+/* ============= Header ========== */
+
+header{
+  padding: 50px 80px;
+  z-index: 2;
+  position: relative;
+  background-color: #fff;
+  height: 140px;
+}
+.navbar, .navbar-brand{
+  padding: 0;
+}
+.navbar-brand{
+  margin-right: 0;
+}  
+.navbar-toggleable-md .navbar-nav .nav-link {
+
+}
+.logo{
+  width: 185px;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+}
+.dropdown-menu {
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 11px 20px 0 rgba(0, 0, 0, 0.1);
+  border: 0;
+}
+.dropdown-item {
+  padding: 0;
+}
+.dropdown-item:last-child{
+  margin: 0;
+}
+header .dropdown-item:hover {
+  
+}
+header .nav-item.dropdown.show a.nav-link{
+ 
+}
+
+/* ============= End Header============= */
+
+/* ============= Home ================== */
+
+/* =========== End Home =============== */
+
+/* =========== ABOUT ================== */
+
+/* =========== End ABOUT ============== */
+
+/* ============= CONTACT =============== */
+
+/* ============= END CONTACT =========== */
+
+/* ============= Footer =============== */
+footer{}
+/* =============End Footer ======= */
+
+/* ======== 404 page and Modal ============= */
+.page404{
+  
+}
+/* ======== End 404 page and Modal ========= */
+
+
+/* ================== Media ================= */
+@media screen and (max-width: 1780px){
+  
+}
+@media screen and (max-width: 1700px){
+  
+}
+@media screen and (max-width: 1570px){
+  
+}
+@media screen and (max-width: 1499px){
+  
+}
+@media screen and (max-width: 1399px){
+  
+}
+@media screen and (max-width: 1199px){
+  
+}
+@media screen and (max-width: 1149px){
+  
+}
+@media screen and (max-width: 991px){
+  
+}
+@media screen and (max-width: 859px){
+  
+}
+@media screen and (max-width: 767px){
+  
+}
+@media screen and (max-width: 700px){
+  
+}
+@media screen and (max-width: 576px){
+  
+}
+@media screen and (max-width: 425px){
+  
+}
+@media screen and (max-width: 320px){
+  
+} 
